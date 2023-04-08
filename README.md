@@ -1,5 +1,6 @@
 # Lab-authorization
 
+
 ## Travail à faire 
 
 1. Trouver la référence 
@@ -16,4 +17,6 @@
 
 
 
-## Référence 
+## Référence
+- https://www.itsolutionstuff.com/post/how-to-use-laravel-6-authorization-using-gatesexample.html
+- https://www.itsolutionstuff.com/post/laravel-58-user-roles-and-permissions-tutorialexample.html 
